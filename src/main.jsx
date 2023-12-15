@@ -1,6 +1,6 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import { InvoiceApp } from './components/invoiceApp'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { InvoiceApp } from './invoiceApp';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
